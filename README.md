@@ -7,6 +7,9 @@ I am passionate about the intersection of business and engineering and its capac
 I am driven by a curiosity of how exisiting breakthroughs can be applied towards solutions in the world around us.
 
 Currently, my focus is on iOS developement, with highlighted proficiency in SwiftUI and UIKit. You can find my apps here: [App Store Portfolio](https://apps.apple.com/gb/developer/santiago-garcia-santos/id1555327973). 
+
+You can also read some of my work on my [Medium](https://medium.com/@santiagogarciasantos). 
+
 I am also working on UI design and webdev at [Hack4Impact](https://github.com/hack4impact-upenn).
 
 Feel free to reach out for anything at santiag0@wharton.upenn.edu
