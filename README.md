@@ -10,6 +10,6 @@ Currently, my focus is on iOS developement, with highlighted proficiency in Swif
 
 You can also read some of my work on my [Medium](https://medium.com/@santiagogarciasantos). 
 
-I am also working on UI design and webdev at [Hack4Impact](https://github.com/hack4impact-upenn).
+I am project manager and tech lead at [Hack4Impact](https://github.com/hack4impact-upenn).
 
 Feel free to reach out for anything at santiag0@wharton.upenn.edu
